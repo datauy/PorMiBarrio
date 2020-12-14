@@ -72,6 +72,35 @@ Pueden remitir a la documentación generada por mySociety que es muy buena: <htt
     - API para estadísticas y conexión con nuevo desarrollo de Apps móviles.
     - Extensión de protocolo Open311 e implementación en Montevideo.
 
+## :open_hands: Lenguaje inclusivo
+
+En la elaboración de este material se ha buscado que el lenguaje no invisibilice ni discrimine a las mujeres y a la vez que el uso reiterado de “ /o”, “/a”, “los y las”, etcétera, no dificulte la lectura. En la página 9 de la siguiente publicación se puede encontrar recomendaciones al respecto: [Guía de Lenguaje Inclusivo - INMUJERES](http://www.inmujeres.gub.uy/innovaportal/file/21498/1/15guia_de_lenguaje_inclusivo.pdf).
+  
+<br>
+
+## ![enter image description here](https://avatars0.githubusercontent.com/u/1519867?s=25&v=4)         			Acerca de DATA
+
+Somos una organización de la sociedad civil que trabaja creando herramientas sociales para promover la participación y el debate público a través de la transparencia, datos abiertos y acceso a la información.
+
+www.datauy.org    	
+
+
+<br>
+  
+##  :e-mail: Contacto
+
+En caso de consultas sobre la aplicación, DATA Uruguay o contactos de prensa puede dirigirse a contacto@datauy.org. También estamos disponibles a través de nuestras cuentas de [Twitter](https://twitter.com/datauy), [Facebook](https://facebook.com/datauruguay) e [Instagram](https://instagram.com/datauy).
+
+En la web de DATA puede encontrarse un [kit de prensa de la organización](https://data.org.uy/kit-de-prensa/) conteniendo material gráfico, así como un [kit de prensa del proyecto](https://drive.google.com/drive/folders/1loD6xY_Hza2GpW-YVreDa8PqXRCUPLrN).
+
+<br>
+
+## 🤝 Contribuyendo
+
+Como la mayoría de los proyectos que trabajan con datos abiertos y software libre, la retroalimentación de los usuarios es una herramienta fundamental para la mejora de los datos y su tratamiento, por lo que agradecemos e incentivamos la recepción de ideas, sugerencias o correcciones. Puedes escribirnos a devops@data.org.uy en caso que te interese colaborar de otra forma.
+
+<br>
+
 ## Ejemplos
 
 * <http://pormibarrio.uy/>
