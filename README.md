@@ -12,6 +12,7 @@
 <a  href="#e-mail-contacto">Contacto</a> •
 <a  href="#-contribuyendo">Contribuyendo</a> •
 <a  href="#page_facing_up-licencia">Licencia, términos y condiciones</a> •
+<a  href="#-Información-adicional">Información adicional</a> •
 </p>
 
 <br>
@@ -23,7 +24,7 @@ Este proyecto nace para que las personas que viven en diversos departamentos de 
 
 ### :mag_right: Origen 
 
-Por Mi Barrio es una plataforma de código libre que se desarrolla en base a la plataforma [Fix My Street](https://github.com/mysociety/fixmystreet) creada en 2007 por [mySociety](http://www.mysociety.org/) quienes además nos ayudaron en este proceso. Por Mi Barrio trata de ser algo más que el software que instala, en su filosofía está en trabajar con los gobiernos locales para poder interconectar las plataformas y realizar campañas de insidencia y participación de manera que la herramienta sea generadora real de cambio, participación, interacción y acercamiento al gobierno. Por lo que si estás pensando en instalar la plataforma puedes contactarte con nosotros [DATA](mailto:contacto@datauy.org).
+Por Mi Barrio es una plataforma de código libre que se desarrolla en base a la plataforma [Fix My Street](https://github.com/mysociety/fixmystreet) creada en 2007 por [mySociety](http://www.mysociety.org/) quienes además nos ayudaron en este proceso. Por Mi Barrio trata de ser algo más que el software que instala, en su filosofía está el trabajar con los gobiernos locales para poder interconectar las plataformas y realizar campañas de insidencia y participación de manera que la herramienta sea generadora real de cambio, participación, interacción y acercamiento al gobierno. Por lo que si estás pensando en instalar la plataforma puedes contactarte con nosotros [DATA](mailto:contacto@datauy.org).
 
 ### Objetivo
 
@@ -31,7 +32,7 @@ Por Mi Barrio es una plataforma para hacer reclamos en línea, integrada al Sist
 
 ### ¿Qué puedo reclamar?
 
-Primeramente es importante aclarar que un reclamo implica problemas como roturas o vandalismo, no pedidos o expresiones de deseo de los vecinos. Los reclamos que pueden hacerse son acordados con la Intendencia, con quien se planifica la incorporación de las nuevas categorías. En la actualidad los reclamos que pueden hacerse a la Intendencia de Montevideo son los que están bajo las categorías:
+Es importante aclarar que un reclamo implica problemas como roturas o vandalismo, no pedidos o expresiones de deseo de los vecinos. Los reclamos que pueden hacerse son acordados con la Intendencia, con quien se planifica la incorporación de las nuevas categorías. En la actualidad los reclamos que pueden hacerse a la Intendencia de Montevideo son los que están bajo las categorías:
 
 - Arbolado
 - Viales
@@ -119,9 +120,15 @@ Para asegurarnos de que la aplicación esté acorde a las necesidades de nuestro
 
 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
-i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
+I. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 
-ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
+II. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
+
+##  :Información-adicional: Información adicional
+
+Antes de implementar Por Mi Barrio en tu municipio, hay ciertos criterios los cuales debes  considerar para que su implementación sea óptima y cumpla con su objetivo.
+
+<https://docs.google.com/document/d/1-lBM2odK6NSRspR8mrIYzEc1YTgmMTRlPPiV_V9jX48/edit?usp=sharing>
 
 ## Ejemplos
 
