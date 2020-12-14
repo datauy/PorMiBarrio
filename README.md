@@ -7,8 +7,6 @@
 <p  align="center">
 • <a  href="#-introducción">Introducción</a> •
 <a  href="#notebook-guía-de-instalación-y-uso">Guía de instalación y uso</a> •
-<a  href="#chart_with_downwards_trend-datos-abiertos">Datos abiertos</a> •
-<a  href="#memo-procesamiento-de-datos">Procesamiento de datos</a> •
 <a  href="#open_hands-lenguaje-inclusivo">Lenguaje inclusivo</a> •
 <a  href="#---------acerca-de-data">Acerca de DATA</a> •
 <a  href="#e-mail-contacto">Contacto</a> •
@@ -21,7 +19,7 @@
 ## Introducción
 Este proyecto nace para que las personas que viven en diversos departamentos de Uruguay, puedan enviar reportes sobre daños, desperfectos, vandalismo y otros problemas de nuestras ciudades.
 
-<details><summary><b>Origen, Objetivo y Antecedentes</b></summary>
+<details><summary><b>Origen, Objetivo y Descripción</b></summary>
 
 ### :mag_right: Origen 
 
@@ -44,8 +42,19 @@ Primeramente es importante aclarar que un reclamo implica problemas como roturas
 - Contenedores
 - Alumbrado
 
+Mientras que con la Intendencia de Rivera las categorías en las que puede reportarse son:
+- Alumbrado
+- Problemas con Animales
+- Barrido
+- Contenedores
+- Recolección por Calendario
+- Parques y Jardines
+- Recolección
+- Tránsito
+</details>
+<br>
 
-## Instalación
+## :notebook: Guía de instalación y uso
 
 Pueden remitir a la documentación generada por mySociety que es muy buena: <http://code.fixmystreet.com/>, se creó un complemento al manual que sugiere vaias adiciones al original: <https://docs.google.com/document/d/1UmZreEx5Ey1wXARUkrAMi2Q5sR-ypGdnQiDjJQsWWmE/>. 
 
