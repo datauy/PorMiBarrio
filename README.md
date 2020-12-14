@@ -3,6 +3,11 @@
 <p align="center">
 <img  height="200"  src="https://github.com/datauy/PorMiBarrio/blob/master/web/cobrands/pormibarriocr/images/LogoPMBazulFondoBlanco.png">
 </p>
+<p aling="center">
+<img src="https://img.shields.io/badge/License-GPL-yellow">
+<img src="https://img.shields.io/badge/Last%20commit-May-orange">
+<img src="https://img.shields.io/badge/Website-online-brightgreen">
+</p>
 
 <p  align="center">
 • <a  href="#-introducción">Introducción</a> •
@@ -12,7 +17,7 @@
 <a  href="#e-mail-contacto">Contacto</a> •
 <a  href="#-contribuyendo">Contribuyendo</a> •
 <a  href="#page_facing_up-licencia">Licencia, términos y condiciones</a> •
-<a  href="#-información-adicional">Información adicional</a> •
+<a  href="#información-adicional">Información adicional</a> •
 </p>
 
 <br>
@@ -59,7 +64,7 @@ Mientras que con la Intendencia de Rivera las categorías en las que puede repor
 
 Pueden remitir a la documentación generada por mySociety que es muy buena: <http://code.fixmystreet.com/>, se creó un complemento al manual que sugiere vaias adiciones al original: <https://docs.google.com/document/d/1UmZreEx5Ey1wXARUkrAMi2Q5sR-ypGdnQiDjJQsWWmE/>. 
 
-## Releases
+### Lanzamientos
 * v1.0 Por Mi Barrio (1 de Agosto 2014)
     - Login por redes sociales
     - Perfil de usuario con documento de identidad
@@ -84,7 +89,6 @@ En la elaboración de este material se ha buscado que el lenguaje no invisibilic
 Somos una organización de la sociedad civil que trabaja creando herramientas sociales para promover la participación y el debate público a través de la transparencia, datos abiertos y acceso a la información.
 
 www.datauy.org    	
-
 
 <br>
   
@@ -116,7 +120,7 @@ La prestación de este servicio tiene carácter gratuito para los usuarios. Los 
 
 Para asegurarnos de que la aplicación esté acorde a las necesidades de nuestros usuarios, e intentar mejorarla utilizamos Google Analytics para recolectar información sobre cómo se utiliza. Google Analytics almacena información como qué páginas ha visitado, cuánto tiempo ha navegado en las mismas, cómo llegó a la página, qué elementos clikea e información sobre qué navegador utiliza. Su dirección IP es enmascarada (parcialmente almacenada) y la información personal sólo es reportada en forma no individualizada (agregada). No permitimos a Google usar o compartir nuestros datos analíticos para ningún propósito además de proveernos de información analítica y recomendamos que todo usuario de Google Analytics siga la misma política.
 
-## Limitación de responsabilidades
+### Limitación de responsabilidades
 
 El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
@@ -130,7 +134,7 @@ Antes de implementar Por Mi Barrio en tu municipio, hay ciertos criterios los cu
 
 [10 Preguntas antes de instalar Por Mi Barrio](https://docs.google.com/document/d/1-lBM2odK6NSRspR8mrIYzEc1YTgmMTRlPPiV_V9jX48/edit?usp=sharing)
 
-## Ejemplos
+### Ejemplos
 
 * <http://pormibarrio.uy/>
 * <http://pormibarrio.cr/>
