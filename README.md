@@ -1,8 +1,48 @@
-# Bienvenidos a Por Mi Barrio
+*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
+
+<p align="center">
+<img  height="200"  src="https://github.com/datauy/PorMiBarrio/blob/master/web/cobrands/pormibarriocr/images/LogoPMBazulFondoBlanco.png">
+</p>
+
+<p  align="center">
+• <a  href="#-introducción">Introducción</a> •
+<a  href="#notebook-guía-de-instalación-y-uso">Guía de instalación y uso</a> •
+<a  href="#chart_with_downwards_trend-datos-abiertos">Datos abiertos</a> •
+<a  href="#memo-procesamiento-de-datos">Procesamiento de datos</a> •
+<a  href="#open_hands-lenguaje-inclusivo">Lenguaje inclusivo</a> •
+<a  href="#---------acerca-de-data">Acerca de DATA</a> •
+<a  href="#e-mail-contacto">Contacto</a> •
+<a  href="#-contribuyendo">Contribuyendo</a> •
+<a  href="#page_facing_up-licencia">Licencia, términos y condiciones</a> •
+</p>
+
+<br>
+
+## Introducción
+Este proyecto nace para que las personas que viven en diversos departamentos de Uruguay, puedan enviar reportes sobre daños, desperfectos, vandalismo y otros problemas de nuestras ciudades.
+
+<details><summary><b>Origen, Objetivo y Antecedentes</b></summary>
+
+### :mag_right: Origen 
 
 Por Mi Barrio es una plataforma de código libre que se desarrolla en base a la plataforma [Fix My Street](https://github.com/mysociety/fixmystreet) creada en 2007 por [mySociety](http://www.mysociety.org/) quienes además nos ayudaron en este proceso. Por Mi Barrio trata de ser algo más que el software que instala, en su filosofía está en trabajar con los gobiernos locales para poder interconectar las plataformas y realizar campañas de insidencia y participación de manera que la herramienta sea generadora real de cambio, participación, interacción y acercamiento al gobierno. Por lo que si estás pensando en instalar la plataforma puedes contactarte con nosotros [DATA](mailto:contacto@datauy.org).
 
-Por Mi Barrio permite a los ciudadanos hacer reportes de problemas en la vía pública y los remite a la autoridad competente, para poder hacer el seguimiento desde la plataforma. Los usuarios localizan los problemas alinteractuar con un mapa, llena un formulario básico y la plataforma envía el reclamo a la autoridad competente. Todos los reportes son de acceso público y los usuarios pueden suscribirse a los problemas que quieran o por áreas.
+### Objetivo
+
+Por Mi Barrio es una plataforma para hacer reclamos en línea, integrada al Sistema Único de Reclamos de la Intendencia de Montevideo (IM) para asegurar su solución y recibir notificaciones de avance. Aporta un componente de transparencia gracias a la visibilidad de todos los reclamos y un canal de comunicación directa  al gobierno para mostrar su cumplimiento. Por Mi Barrio es un proyecto basado en FixMyStreet y desarrollado por DATA, en convenio con la Intendencia de Montevideo y la Defensoría del Vecino, con el apoyo del Fondo Acelerador de Innovaciones Cívicas de Avina y Omidyar.
+
+### ¿Qué puedo reclamar?
+
+Primeramente es importante aclarar que un reclamo implica problemas como roturas o vandalismo, no pedidos o expresiones de deseo de los vecinos. Los reclamos que pueden hacerse son acordados con la Intendencia, con quien se planifica la incorporación de las nuevas categorías. En la actualidad los reclamos que pueden hacerse a la Intendencia de Montevideo son los que están bajo las categorías:
+
+- Arbolado
+- Viales
+- Bocas de tormenta
+- Barrido
+- Basura, escombros y ferias
+- Plantación
+- Contenedores
+- Alumbrado
 
 
 ## Instalación
