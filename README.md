@@ -3,13 +3,13 @@
 <p align="center">
 <img  height="200"  src="https://github.com/datauy/PorMiBarrio/blob/master/web/cobrands/pormibarriocr/images/LogoPMBazulFondoBlanco.png">
 </p>
-<p aling="center">
+<p align="center">
 <img src="https://img.shields.io/badge/License-GPL-yellow">
 <img src="https://img.shields.io/badge/Last%20commit-May-orange">
 <img src="https://img.shields.io/badge/Website-online-brightgreen">
 </p>
 
-<p  align="center">
+<p align="center">
 • <a  href="#-introducción">Introducción</a> •
 <a  href="#notebook-guía-de-instalación-y-uso">Guía de instalación y uso</a> •
 <a  href="#open_hands-lenguaje-inclusivo">Lenguaje inclusivo</a> •
