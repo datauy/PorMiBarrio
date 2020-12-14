@@ -12,7 +12,7 @@
 <a  href="#e-mail-contacto">Contacto</a> •
 <a  href="#-contribuyendo">Contribuyendo</a> •
 <a  href="#page_facing_up-licencia">Licencia, términos y condiciones</a> •
-<a  href="#-Información-adicional">Información adicional</a> •
+<a  href="#-información-adicional">Información adicional</a> •
 </p>
 
 <br>
@@ -124,11 +124,11 @@ I. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción d
 
 II. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
 
-##  :Información-adicional: Información adicional
+##  Información adicional
 
 Antes de implementar Por Mi Barrio en tu municipio, hay ciertos criterios los cuales debes  considerar para que su implementación sea óptima y cumpla con su objetivo.
 
-<https://docs.google.com/document/d/1-lBM2odK6NSRspR8mrIYzEc1YTgmMTRlPPiV_V9jX48/edit?usp=sharing>
+[10 Preguntas antes de instalar Por Mi Barrio](https://docs.google.com/document/d/1-lBM2odK6NSRspR8mrIYzEc1YTgmMTRlPPiV_V9jX48/edit?usp=sharing)
 
 ## Ejemplos
 
