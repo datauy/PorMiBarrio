@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/License-GPL-yellow">
 <img src="https://img.shields.io/badge/Last%20commit-May-orange">
 <img src="https://img.shields.io/badge/Website-online-brightgreen">
+<img src="https://img.shields.io/badge/Built%20with-Perl-blue">
 </p>
 
 <p align="center">
